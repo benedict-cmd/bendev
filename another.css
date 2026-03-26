@@ -1,0 +1,27 @@
+body{
+    margin: 0px;
+}
+
+div{
+    margin-top: 0px;
+    position: sticky;
+    top: 0px;
+}
+
+nav{
+    display: flex;
+    gap: 50px;
+    background-color: black;
+    height: 40px;
+   
+    margin-top: auto;
+
+}
+
+h2{
+    border: 2px solid black;
+    width: 250px;
+    height:300px ;
+    overflow: scroll;
+    
+}

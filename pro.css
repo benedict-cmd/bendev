@@ -1,0 +1,135 @@
+.topper{
+    text-align: center;
+}
+
+body{
+    background-color: rgb(12, 10, 10);
+    color: white;
+    margin-bottom: 100px;
+}
+ 
+.navi{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+} 
+
+.nav{
+    margin-top: 0px;
+    font-size: xxx-large;
+}
+
+nav{
+    text-align: end;
+}
+
+img{
+    width: 299px;
+}
+
+h3{
+    width: rem;
+    margin-bottom: 0;
+}
+button{
+    background-color: aqua;
+    color: white;
+    width: 130px;
+    border-radius: 20px;
+    border-color: aqua;
+}
+
+.home{
+    width: 300px;
+    margin-top: 30px;
+}
+
+.pix{
+    width: 100px;
+    border-radius: 4px;
+    margin-left: 30px;
+}
+
+.texts{
+    display: grid;
+    grid-template-columns: 500px 300px;
+    justify-content: center;
+    margin-top: 50px;
+    text-align: center;
+}
+
+.align{
+     display: grid; 
+    grid-template-columns: 1fr 1fr;
+    justify-content: center; 
+}
+
+.note{
+    width: 400px;
+    margin-left: 50px;
+}
+
+.img{
+    margin-left: 320px;
+}
+
+.paragraph{
+    width: 400px;
+    margin-left: 50px;
+    margin-bottom: 3px;
+}
+ 
+.link{
+    margin-left: 100px;
+    margin-top: 0px;
+    font-size: large;
+}
+
+.ben{
+           height: 200px;
+           background-color:rgb(31, 24, 24);
+           margin-left: 20px;
+}
+.benedict{
+       display: grid;
+       grid-template-columns: 1fr 1fr 1fr 1fr;
+       margin-top: 10px;
+}
+footer{
+    background-color: rgb(27, 19, 19);
+    margin-top: 60px;
+    height: 300px;
+}
+
+.footer-div{
+         background-color: black;
+         color:white;
+         text-align: center;
+         width: 500px;
+         height: 150px;
+        position: relative;
+        left: 25rem;
+        bottom: 50px;
+        position: center;
+
+}
+
+.input{
+    border-radius: 20px;
+    width: 200px;
+    margin-left: 0px;
+}
+.int{
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+}
+
+/* @media(max-width:600px){
+    .footer-div{
+      display: grid; 
+      grid-template-columns: 1fr;   
+      padding-right: 10px;
+      align-items:first baseline;
+
+    }
+} */
