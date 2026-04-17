@@ -1,0 +1,11 @@
+.linear{
+    background: linear-gradient(red, blue);
+    width: 200px;
+    height: 200px;
+}
+
+.repeat{
+    background: radial-gradient(green, blue, gray);
+    width: 200px;
+    height: 200px;
+}

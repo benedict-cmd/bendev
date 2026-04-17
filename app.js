@@ -1,0 +1,42 @@
+console.log("Hey Dear");
+console.log("I am exited to talk to you");
+let bot;
+bot = "teacherbot";
+let botLocation = "The universe";
+console.log ("Allow me to introduce myself")
+let botItroduction = ("My name is " + bot +".");
+console.log(botItroduction);
+let botLocationsentence = "i live in " + botLocation + ".";
+console.log(botLocationsentence);
+bot ="professorbot";
+let nickNameIntroduction ="my nickname is " + bot + ".";
+console.log(nickNameIntroduction); 
+bot = "AwesomeTeacherBot";
+let newNickNameGreeting = "i love my  nickname but i wish people would call me " + bot + ".";
+console.log(newNickNameGreeting);
+let favoritesubject = "computer science";
+let favoritesubjectsentence = "my favorite subject is " + favoritesubject + ".";
+console.log(favoritesubjectsentence);
+console.log("well, it was nice talking to you. have a nice day!");
+let a ="hello world"/1000;
+console.log(a);
+console.log(typeof a);
+
+let result =2 *"10";
+console.log(result);
+console.log(typeof result);
+let subtraction = "10"- 5;
+console.log(subtraction);
+console.log(typeof subtraction);  
+
+let num1 = 20;
+let num2 = 30;
+let num3 = 10;
+let sum = num1 + num2 + num3;
+console.log(sum);
+sum =  num2 - num1;
+console.log(sum);
+ sum = num1 * num2 * num3;
+console.log(sum);
+sum =  num2 / num3;
+console.log(sum);
